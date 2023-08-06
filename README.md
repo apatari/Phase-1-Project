@@ -1,6 +1,6 @@
 # Formula 1 Results Single Page App
 
-This web app was designed to use the Ergast Developer API to display Formula 1 racing results in quick and convenient fashion.  This work was created as part of the Phase 1 final project for the Software Engineering program at the Flatiron School.  In order to demonstrate the capabilities of the app in the most controlled manner possible, information from the Ergast Developer API was stored in the results.json file for ten races.  This means that the library of results is much smaller than what is available in the actual API.  I encourage racing fans and curious developers to check out this wonderful tool on the [Ergast API website](http://ergast.com/mrd/).
+This web app was designed to use the Ergast Developer API to display Formula 1 racing results in quick and convenient fashion.  This work was created as part of the Phase 1 final project for the Software Engineering program at the Flatiron School.  In order to demonstrate the capabilities of the app in the most controlled manner possible, information from the Ergast Developer API was stored in the results.json file for ten races.  This means that the library of results is much smaller than what is available in the actual API.  To see the version of the app that uses the full API [head to this repo.](git@github.com:apatari/Phase-1-Project-FullAPI.git) I encourage racing fans and curious developers to check out this wonderful tool on the [Ergast API website](http://ergast.com/mrd/).
 
 ## Setup
 
@@ -20,8 +20,8 @@ Simply select the year and race you'd like to see the results for.  Note that th
 
 ## Roadmap
 
-I may connect this page back to the API after my project review in order to make full use of the API.  Stay tuned.
+I do not plan on making any further changes or updates to this work.
 
 ## Acknowledgment and Contributions
 
-I thank the folks behind the Ergast API for providing and maintaining the resource that this work is based on.  [Please send contributions their way](https://liberapay.com/ergast)  I'd also like to thank the folks at Flatiron school for giving me the skills and tools necessary to create this work.
+I thank the folks behind the Ergast API for providing and maintaining the resource that this work is based on.  [Please send contributions their way](https://liberapay.com/ergast)  I'd also like to thank the folks at Flatiron school for giving me the skills and tools necessary to build it.
